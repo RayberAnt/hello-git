@@ -1,2 +1,2 @@
-print("You Hello Git")
+print("You Hello Github")
 print("Que pasa hoy?")
